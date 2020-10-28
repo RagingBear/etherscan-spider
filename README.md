@@ -3,9 +3,9 @@ Ethereum data spider on etherscan
 
 ## Targets
 
-- Simulated login cn.etherscan.cn(pending)
-- Crawl labeled address(done)
-- Tracking transaction links(pending)
+- Simulated login cn.etherscan.cn(**pending**)
+- Crawl labeled address(**done**)
+- Tracking transaction links(**pending**)
 - more...
 
 ## Dependency
