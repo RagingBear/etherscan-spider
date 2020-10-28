@@ -13,6 +13,8 @@ Ethereum data spider on etherscan
 - Scrapy1.7 or higher version
 
 ## Crawl labeled address
-Using **label keyword**, **etherscan username**, **etherscan password** to start this spider, which means you need to have a account on etherscan(if not, click (here)[https://cn.etherscan.com/register]).
+Using **label keyword**, **etherscan username**, **etherscan password** to start this spider, which means you need to have a account on etherscan(if not, click [here](https://cn.etherscan.com/register)).
+
 Command format:```scrapy crawl -a label=<label keyword> -a username=<etherscan username> -a password=etherscan password```
+
 Example:```scrapy crawl -a label=phish-hack -a username=geek -a password=123456```
